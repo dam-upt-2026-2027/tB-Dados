@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Dados</string>
+    <string name="button_text">Rodar o dado</string>
 </resources>
